@@ -1,0 +1,10 @@
+{
+    "services": {
+        "cloudantNoSQLDB": [{
+            "credentials": {
+                "url": "CLOUDANT_DATABASE_URL"
+            },
+            "label": "cloudantNoSQLDB"
+        }]
+    }
+}
