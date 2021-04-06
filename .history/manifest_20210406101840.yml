@@ -1,0 +1,5 @@
+---
+applications:
+ - name: myIBMCloudApp
+   random-route: true
+   memory: 256M
